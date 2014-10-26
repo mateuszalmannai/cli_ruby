@@ -9,6 +9,7 @@ scheme
 #Task Manager Command Suite
 A command suite is an app that provides a set of commands, each representing a
 different function of a related concept. 
+
 1. Read in task from the command line and append it to todo.txt along with a
    timestamp
 2. List todos by reading todo.txt and generating ID numbers
