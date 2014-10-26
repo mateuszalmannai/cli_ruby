@@ -5,6 +5,7 @@
 scheme
 4. Compress the backup files
 5. Delete backups from completed iterations
+
 #Task Manager Command Suite
 A command suite is an app that provides a set of commands, each representing a
 different function of a related concept. 
